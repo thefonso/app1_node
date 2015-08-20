@@ -1,0 +1,11 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "a basic web server",
+  "main": "server.js",
+  "author": "alfonso",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
